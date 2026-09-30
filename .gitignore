@@ -1,0 +1,32 @@
+# Archived research materials and exports
+/archive/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Local IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temporary files
+.tmp_v3/
+*.tmp
+*.temp
+
+# PyInstaller and other generated build output
+build/
+dist/
+.pio/
+
+# Local packaged archives
+*.zip
